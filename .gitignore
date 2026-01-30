@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+*.log
+logs/
+*.pid
+*.seed
+*.cache
+node_modules/
+dist/
+build/
+coverage/
+.vscode/
+.idea/
